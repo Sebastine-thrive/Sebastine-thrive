@@ -21,8 +21,8 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Front-end Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m currently looking for opportunitiny to learn more while contributing to frontend  for building web applications.
+I am a Front-end Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lagos, Nigeria.
+- :telescope: I’m currently looking for opportunity to learn more and earn while contributing to frontend projects for building web applications.
 
 - :seedling: Exploring more technologies.
 
@@ -42,9 +42,9 @@ I am a Front-end Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
 </div>
 
 ---
@@ -55,4 +55,6 @@ I am a Front-end Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastine-thrive&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+
 
