@@ -1,53 +1,37 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/sebastine-ogu-b36324144">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a> 
-    <a href="https://twitter.com/Sebasious1?s=09">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<h2> Hey there!👋 I'm Sebastine.</h2>
 
----
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-### :man_technologist: About Me :
-I am a Front-end Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lagos, Nigeria.
-- :telescope: I’m currently looking for opportunity to learn more and earn while contributing to frontend projects for building web applications.
+<h3> I'm a FrontEnd Developer | Software Developer </h3>
 
-- :seedling: Exploring more technologies.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 👯 I’m looking to collaborate on Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- ⚡ Quote: "First, solve the problem. Then write the code".
 
-- :zap: In my free time, I solve math problems and read tech articles.
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sebastine-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sebastine-ogu-b36324144)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) -->
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Material UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=mui&logoColor=563D7C)
+   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss&logoColor=89CFF0)
+<!--   
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+- 🛢 &nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ &nbsp; -->
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
----
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/sebastine-ogu-b36324144) 👨🏻‍💻
+- Shoot Me an [Email](sebastinoptimum@gmail.com) 💌
+- Portfolio site [Portfolio](https://sebastine-ogu.netlify.app/)
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
-</div>
-
----
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sebastine-thrive&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -55,6 +39,3 @@ I am a Front-end Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastine-thrive&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-
-
