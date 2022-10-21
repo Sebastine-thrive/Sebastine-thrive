@@ -29,7 +29,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/sebastine-ogu-b36324144) 👨🏻‍💻
-- Shoot Me an [Email](sebastinoptimum@gmail.com) 💌
+- Shoot Me an [Email]([sebastinoptimum@gmail.com](https://sebastine-ogu.netlify.app/#contact)) 💌
 - Portfolio site [Portfolio](https://sebastine-ogu.netlify.app/)
 
 
