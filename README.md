@@ -47,7 +47,7 @@
 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sebastine-thrive&theme=dark&background=000000)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sebastine-thrive&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sebastine-thrive&show_icons=true&locale=en&layout=compact" alt="Sebastine stats" /></p>
 
@@ -58,5 +58,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sebastine-thrive&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Sebastine-thrive" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?Sebastine-thrive&layout=compact&theme=vision-friendly-dark" alt="Sebastine-thrive" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?Sebastine-thrive&layout=compact&theme=vision-friendly-dark" alt="Sebastine-thrive" /></p> -->
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abiel13&show_icons=true&locale=en&layout=compact" alt="abiel13" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abiel13&show_icons=true&locale=en" alt="abiel13" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abiel13&" alt="abiel13" /></p>
+
 
