@@ -49,7 +49,14 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sebastine-thrive&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastine-thrive&show_icons=true&locale=en&layout=compact" alt="Sebastine stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sebastine-thrive&show_icons=true&locale=en&layout=compact" alt="Sebastine stats" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastine-thrive&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?Sebastine-thrive&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Sebastine-thrive" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sebastine-thrive&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Sebastine-thrive" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?Sebastine-thrive&layout=compact&theme=vision-friendly-dark" alt="Sebastine-thrive" /></p>
 
