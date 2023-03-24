@@ -18,18 +18,18 @@
 
 <h3> 🛠 &nbsp;My Tech Stack</h3>
 
-- 🌐 &nbsp;
-  -![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+- 🌐 &nbsp; <br>
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) </br>
-  -![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)  </br>
-  -![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
    ![NextJS](https://img.shields.io/badge/-next-333333?style=flat&logo=Next) </br>
-   -![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
    ![GraphQl](https://img.shields.io/badge/-graphql-333333?style=flat&logo=graphql) </br>
-  -![Material UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=mui&logoColor=563D7C)
+  ![Material UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=mui&logoColor=563D7C)
    ![Bootstrap](https://img.shields.io/badge/-bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) </br>
-   -![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss&logoColor=89CFF0)
+   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss&logoColor=89CFF0)
   ![SASS](https://img.shields.io/badge/-sass-333333?style=flat&logo=sass) </br>
    ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -60,10 +60,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?Sebastine-thrive&layout=compact&theme=vision-friendly-dark" alt="Sebastine-thrive" /></p> -->
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sebastine-thrive&show_icons=true&locale=en&layout=compact" alt="Sebastine-thrive" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sebastine-thrive&show_icons=true&locale=en" alt="Sebastine-thrive" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sebastine-thrive&" alt="Sebastine-thrive" /></p>
 
