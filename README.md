@@ -6,9 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebastine-thrive&label=Profile%20views&color=0e75b6&style=flat" alt="Sebastine" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebastine-thrive" alt="Sebastine" /></a> </p>
 
-- ⚡ &nbsp;Aiming for excellence in the filed of software engineering.
+- ⚡ &nbsp;Aiming for excellence in the field of software engineering.
 - 🤔 &nbsp; Exploring new technologies and developing capacity to provide software solutions.
 - 👯 I’m looking to collaborate on Web Development Projects.
 - 👯 I’m looking for full-time Web Development employment.
@@ -33,6 +32,7 @@
   ![SASS](https://img.shields.io/badge/-sass-333333?style=flat&logo=sass) </br>
    ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  
   <!--   
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - 🛢 &nbsp;
@@ -47,20 +47,7 @@
 
 
 ### :fire: My Stats :
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sebastine-thrive&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sebastine-thrive&show_icons=true&locale=en&layout=compact" alt="Sebastine stats" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sebastine-thrive&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastine-thrive&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?Sebastine-thrive&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Sebastine-thrive" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sebastine-thrive&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Sebastine-thrive" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?Sebastine-thrive&layout=compact&theme=vision-friendly-dark" alt="Sebastine-thrive" /></p> -->
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sebastine-thrive&" alt="Sebastine-thrive" /></p>
-
-
