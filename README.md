@@ -47,8 +47,6 @@
 
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=sebastine-thrive&theme=one-dark-pro)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sebastine-thrive"/></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sebastine-thrive&theme=one-dark-pro)](https://git.io/streak-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastine-thrive&layout=compact&theme=vision-friendly-dark)](https://github.com/sebastine-thrive/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastine-thrive)](https://github.com/Sebastine-thrive/github-readme-stats)
