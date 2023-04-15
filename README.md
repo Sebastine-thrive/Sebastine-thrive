@@ -33,18 +33,12 @@
    ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   
-  <!--   
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-- 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp; -->
-  
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/sebastine-ogu-b36324144) 👨🏻‍💻
 - Shoot Me an [Email](https://sebastine-ogu.vercel.app/#contact) 💌
 - Portfolio site [Portfolio](https://sebastine-ogu.vercel.app/)
-
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sebastine-thrive&theme=one-dark-pro)](https://git.io/streak-stats)
