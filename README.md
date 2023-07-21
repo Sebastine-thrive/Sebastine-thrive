@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<h3> I'm a Front-end Web Developer using React and TypeScript </h3>
+<h3> I'm a Front-end Web Developer using React, NextJS and TypeScript </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebastine-thrive&label=Profile%20views&color=0e75b6&style=flat" alt="Sebastine" /> </p>
 
