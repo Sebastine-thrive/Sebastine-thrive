@@ -23,7 +23,8 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)  </br>
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-   ![NextJS](https://img.shields.io/badge/-next-333333?style=flat&logo=Next) </br>
+  https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white
+   </br>
    ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
    ![GraphQl](https://img.shields.io/badge/-graphql-333333?style=flat&logo=graphql) </br>
   ![Material UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=mui&logoColor=563D7C)
