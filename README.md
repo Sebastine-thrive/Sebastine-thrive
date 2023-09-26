@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<h3> I'm a Front-end Web Developer using React, NextJS and TypeScript </h3>
+<h3> I'm a Front-end Web Developer using Javascript, React, NextJS and TypeScript </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebastine-thrive&label=Profile%20views&color=0e75b6&style=flat" alt="Sebastine" /> </p>
 
@@ -10,7 +10,7 @@
 - ⚡ &nbsp;Aiming for excellence in the field of software engineering.
 - 🤔 &nbsp; Exploring new technologies and developing capacity to provide software solutions.
 - 👯 I’m looking to collaborate on Web Development Projects.
-- 👯 I’m looking for full-time Web Development employment.
+- 👯 I’m looking for paid contract or full-time Web development employment.
 
 <!-- - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 -  Quote: "First provide an optimal solution to the problem. Then write the code".
