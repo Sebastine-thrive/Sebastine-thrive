@@ -7,10 +7,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebastine-thrive&label=Profile%20views&color=0e75b6&style=flat" alt="Sebastine" /> </p>
 
 
-- ⚡ &nbsp;Aiming for excellence in the field of software engineering.
+- ⚡&nbsp;Aiming for excellence in the field of software engineering.
 - <img src = "https://github.com/Sebastine-thrive/Sebastine-thrive/assets/96709963/459e17e3-f499-48d5-a83d-7d1add03a7b1" width="20" height="20"/> Exploring new technologies and developing capacity to provide software solutions.
 - <img src= "https://github.com/Sebastine-thrive/Sebastine-thrive/assets/96709963/37eff327-cc6b-48e5-9012-f3f1a2b7b49e" width="20" height="20" /> I am currently learning to use Express, MongoDB and Pug.js.
-- 👯 &nbsp;I’m looking to collaborate on Web Development Projects.
+- 👯&nbsp;I’m looking to collaborate on Web Development Projects.
 - <img src = "https://github.com/Sebastine-thrive/Sebastine-thrive/assets/96709963/023aecbe-2f96-45ec-97e1-cc1bb7beb958"  width="20" height="20" /> I’m looking for paid contract or full-time Web development employment.
 
 <!-- - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
