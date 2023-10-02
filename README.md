@@ -9,7 +9,7 @@
 
 - ⚡ &nbsp;Aiming for excellence in the field of software engineering.
 -  &nbsp; Exploring new technologies and developing capacity to provide software solutions.
--  ![image](https://github.com/Sebastine-thrive/Sebastine-thrive/assets/96709963/37eff327-cc6b-48e5-9012-f3f1a2b7b49e)  am currently learning to use Express, MongoDB and Pug.js.
+-  <img src= "https://github.com/Sebastine-thrive/Sebastine-thrive/assets/96709963/37eff327-cc6b-48e5-9012-f3f1a2b7b49e" width="10" height="10" /> I am currently learning to use Express, MongoDB and Pug.js.
 - 👯 I’m looking to collaborate on Web Development Projects.
 - 👯 I’m looking for paid contract or full-time Web development employment.
 
