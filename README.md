@@ -9,7 +9,7 @@
 
 - ⚡&nbsp;Aiming for excellence in the field of software engineering.
 - <img src = "https://github.com/Sebastine-thrive/Sebastine-thrive/assets/96709963/459e17e3-f499-48d5-a83d-7d1add03a7b1" width="20" height="20"/> Exploring new technologies and developing capacity to provide software solutions.
-- <img src= "https://github.com/Sebastine-thrive/Sebastine-thrive/assets/96709963/37eff327-cc6b-48e5-9012-f3f1a2b7b49e" width="20" height="20" /> I am currently learning to use Express, MongoDB and Pug.js.
+- <img src= "https://github.com/Sebastine-thrive/Sebastine-thrive/assets/96709963/37eff327-cc6b-48e5-9012-f3f1a2b7b49e" width="20" height="20" /> I am currently learning to use Express and MongoDB.
 - 👯&nbsp;I’m looking to collaborate on Web Development Projects.
 - <img src = "https://github.com/Sebastine-thrive/Sebastine-thrive/assets/96709963/023aecbe-2f96-45ec-97e1-cc1bb7beb958"  width="20" height="20" /> I’m looking for paid contract or full-time Web development employment.
 
